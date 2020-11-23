@@ -1,0 +1,5 @@
+homepage: "https://antoine-hervillard.com"
+documentation: "https://antoine-hervillard.com/gtm-template-tag-local-storage-interact/"
+versions:
+  - sha: a3e522d31a5ab220f7a14f02e36a4c5c2255fe3f
+    changeNotes: Initial release.
